@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   -  🎯 I’m currently learning Python , Node and JS on my own
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan75555&layout=compact&theme=tokyonight)](https://github.com/juan75555/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan75555&layout=compact&theme=synthwave)](https://github.com/juan75555/github-readme-stats)
 
 
 
