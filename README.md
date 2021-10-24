@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## About me:
   -  💻 I'm studying Computer Science at EPI Gijon
-  -  🎯 I’m currently learning Python , Node and JS on my own
+  -  🎯 I’m currently learning Python and JS on my own
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan75555&layout=compact&theme=synthwave)](https://github.com/juan75555/github-readme-stats)
