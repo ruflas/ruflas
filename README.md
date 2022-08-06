@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan75555)](https://github.com/juan75555/github-readme-stats)
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,flutter&perline=3)](https://skillicons.dev)
