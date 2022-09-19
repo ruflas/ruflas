@@ -19,10 +19,10 @@ Here are some ideas to get you started:
   -  🎯 I’m currently learning Python and JS on my own
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan75555&layout=compact&theme=synthwave)](https://github.com/juan75555/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruflas&layout=compact&theme=synthwave)](https://github.com/ruflas/github-readme-stats)
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan75555)](https://github.com/juan75555/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruflas)](https://github.com/ruflas/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,linux&perline=3)](https://skillicons.dev)
