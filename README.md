@@ -18,8 +18,4 @@ Here are some ideas to get you started:
   -  💻 I'm studying Computer Science at EPI Gijon
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruflas&layout=compact&theme=synthwave)](https://github.com/ruflas/github-readme-stats)
-
-
-
 [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,python,linux,docker&perline=3)](https://skillicons.dev)
